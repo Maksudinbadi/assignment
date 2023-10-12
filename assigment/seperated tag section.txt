@@ -1,0 +1,6 @@
+what are the different tag to seperated section of tag?
+ans:
+    the <br> tag is one way to seperate the lines of text.
+
+    there  are other tags like the <p>tag and <blockquote> tag that are also used to seperated section of text.
+    

@@ -1,0 +1,26 @@
+
+what is differnce between a block-level elements and an inline elements ?
+ans:
+    block-level elements:
+                         a block level element always starts on a new line, and the browsers automatically add some space(a margin) before amd after the element 
+
+
+                        
+                         a block level element always takes up the full width available (stretchs out to the left and right as far as it can)
+
+                         two commonly used block element are:<p>and <div>.
+
+                         the <p> element defines a paragraph in an HTML document.
+
+                         the <div> element defines a division or a section in an HTML document
+
+                         the <p> element is a block level element.
+
+                         the <div> element is a block level element.
+
+     inline element:                    
+                    an inline element does nit start on a new line.
+
+                    an inline element only takes up as much width as necessary.
+
+                    this is a<span> element inside a paragraph.

@@ -1,0 +1,19 @@
+<!----
+what are html enttites? with example.
+ANS:
+    an HTML entity is used to display invisble characters and reserved characters that would otherwise be interpeted as HTML code.
+    it is a piece of text,or strings,that begins with an ampersand(&) and end with a smicolan (;).
+-->
+examle:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> html entity example</h1>
+    <h2> a space charactor: &nbsp;</h2>
+</body>
+</html>

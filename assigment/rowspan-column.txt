@@ -1,0 +1,34 @@
+
+<!--
+
+    How can we club two or more rows or columns into a single row or column in an HTML
+    table? With Example.
+ans:
+    it can be done by using the rowspan and colspan atrributes in html.
+    the rowspan is used to merge of combine the number of cells in a row whereas the colspan is used to merge column cell in HTML.
+Example: 
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <th>name</th>
+        <th >class</th>
+        <tr>
+            <td >mohan</td>
+            <td rowspan="3">10<sup>th</sup></td>
+        </tr>
+        <tr>
+            <td>rakesh</td>
+        </tr>
+        <tr>   
+            <td>jagan</td>
+        </tr>
+    </table>
+</body>
+</html>   

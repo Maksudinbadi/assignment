@@ -1,0 +1,92 @@
+
+<!--
+    what is differnces between the 'id' attributes and the 'class' atrribute of HTML element ? with exampls.
+ANS:
+         while 'ID' name must only be used by one  html withing the page.
+         the 'CLASS' name  can be used by multiple html elements.
+examples:
+-->         
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        
+        #country1
+        {
+            background-color: hotpink;
+            color: white;
+            border-radius: 5px;
+            text-transform: uppercase;
+            width: 50%;
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+        }
+        #country2
+        {
+            background-color: hotpink;
+            color: white;
+            border-radius: 5px;
+            text-transform: uppercase;
+            width: 50%;
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+        }
+        #country3
+        {
+            background-color: hotpink;
+            color: white;
+            border-radius: 5px;
+            text-transform: uppercase;
+            width: 50%;
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+        }
+        .city
+        {
+            background-color: green;
+            color: white;
+            border: 2px pink solid;
+            width: 50%;
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!--start here id-->
+    <div id="country1">
+        <h1>india</h1>
+        <p>india is large country</p>
+    </div>
+    <div id="country2">
+        <h1>australia</h1>
+        <p>butiefull and small contry</p>
+    </div>
+    <div id="country3">
+        <h1>nepal</h1>
+        <p>small country</p>
+    </div>
+    <!--class here-->
+    <div class="city">
+        <h2>DELHI</h2>
+        <P> DELHI IS CAPITAL OF INDIA. </P>
+    </div>    
+    <div class="city">
+        <h2>LONDON</h2>
+        <P>LONDON IS CAPITAL OF ENGLAND</P>
+    </div>
+    <div class="city">
+        <h2>TOKYO</h2>
+        <P>TOKYO IS CAPITAL OF JAPAN</P>
+    </div>
+    
+</body>
+</html>

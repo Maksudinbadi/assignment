@@ -1,0 +1,21 @@
+<!--
+what are the various formating tags in html
+ANS:
+    the formating tags is a process of formating text for better look and feel.
+    html provides us ability to format text without using css.
+    there are many formating tags in html.
+    these tags are used to make text bold,italicized or underlined.
+   EXAMPLE:
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Lorem ipsum dolor, sit amet consectetur <b>adipisicing elit</b>. Officia iure, doloremque inventore veritatis nostrum amet, ad earum corrupti laborum iusto minus atque <i>incidunt aperiam autem</i>, <u>ut assumenda ab fugit quaerat</u>.</p>
+</body>
+</html>
+           

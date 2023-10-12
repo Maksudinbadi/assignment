@@ -1,0 +1,26 @@
+
+<!--
+what are void elemtnets in html ? with examle
+ANS:
+ 
+    A void elenemts  is an elemtnets whose contents model never allows it to containts under any circumstances.
+    void elenemts can have attributes.
+    the following is a complete list of the void elements in html:area,base,br,command,embed,img, hr,input,sourse. 
+    -->
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <p style="color: green;">welcome to html</p>
+        <hr>
+        <p style="color:palevioletred">welcome to css</p><br>
+    </body>
+    </html>
+
+
+ 

@@ -1,0 +1,34 @@
+<!--
+what is the use of span tag? with example
+ans:
+    the<span>tag is an inline container used to mark up of a text, or part of a document.
+
+    the<span>tag is easily styled by css or manipulated with javascript using the class or id attribute.
+
+    the<span>tag is much like the <div>element,but <div>is a block-level element and <span> is an inline element.
+ Example:
+ -->   
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h2
+        {
+            color:green;
+        }
+        .box1,span
+        {
+            color: hotpink;
+        }
+
+    </style>
+ </head>
+ <body>
+    <div class="box1">
+    <h2>i am study for <span>fronted web devloper.</span></h2>
+</div>
+ </body>
+ </html>

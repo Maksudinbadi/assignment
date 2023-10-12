@@ -1,0 +1,6 @@
+how are active link different for normal link ? 
+ans:
+    a normal link is just a line of code that contains a pointer to another resource.
+
+    an active link is that line of code in action, opening that other resource.
+    

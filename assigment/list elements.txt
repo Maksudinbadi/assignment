@@ -1,0 +1,48 @@
+
+<!--
+    what are diffrent type of lists in html with examle.
+ANS:
+    html lists are used to specify lists of information.
+    all lists many containt one or more list elements.
+    there are three types of list elements.
+    1. order list element
+    2.unorder list elements
+    3.description list
+EXAMPLE:
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- start here order list example -->
+    <h2>ordered list elelement</h2>
+    
+        <ol>
+            <li>coffee</li>
+            <li>tea</li>
+            <li>milk</li>
+
+        </ol>
+    <!-- unorder list elements example-->
+    <h2>unorder list elements</h2>
+    <ul>
+        <li>mango</li>
+        <li>banana</li>
+        <li>apple</li>
+    </ul>
+    <!--discription list elements example-->
+    <h2>discription list elements</h2>
+    <dl>
+        <dt>mango</dt>
+        <dd> mango is sweets</dd>
+        <dt>banana</dt>
+        <dd>banana is yellow</dd>
+    </dl>
+    
+</body>
+</html>
+    

@@ -1,0 +1,31 @@
+<!--
+how to create hyperlink in html ? with example
+ans:
+    html links are hyperlink.
+
+    you can click on a link and jump to another document.
+
+    when you move the mouse over a link, the mouse arrow will turn into a little hand.
+
+    the most important attribute of the <a> element is the href attribute, which indicates the link's destination.
+
+    the link text is the part that will be visible to the reader.
+
+    clicking on the link text, will send the reader to the specified url adddress.
+
+ Example:
+    -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>click me google</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quidem nam recusandae, ullam eligendi sunt debitis. Harum quasi autem accusamus non fugit ad sint, impedit quis quidem doloremque corporis debitis, commodi, velit suscipit recusandae.</p>
+    <a href="https://www.google.co.in/S">google</a>
+
+</body>
+</html>  

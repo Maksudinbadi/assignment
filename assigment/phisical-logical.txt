@@ -1,0 +1,6 @@
+what are logical and physical tags in html ?
+ans:
+    phisical and logical tags are used in html for better visibility and unserstanding of the text by the user on the web page.
+    howeever,both tags differ from each other as suggested by their names.
+    logical tags are used in html to display the text according to the logical style.
+    

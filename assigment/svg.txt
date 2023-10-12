@@ -1,0 +1,9 @@
+what is svg ?
+ans:
+    svg stand for scalable vector graphics
+    svg is used to define vector-based graphics for the web.
+    svg defines the graphics in xml format
+    every elements and every atrribute in svg files can be animated
+    svg is a w3c recommendation
+    svg integrates with other w3c standars such as the dom and xsl.
+    

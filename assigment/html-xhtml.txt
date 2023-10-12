@@ -1,0 +1,21 @@
+what is diffrent between HTML and xhtml ?
+ans:
+html:
+     <!DOCTYPE> is mandatory
+     the xmlns attribute in <html>is mandatory
+     <html><head><title>and <body> are mandatory.
+     elelments must always be properly nested.
+     elelments must always be closed.
+     elements must always be in lowercase.
+     attribute names must always be on lowercase.
+     attribute values must always be quoted.
+     attribute minimization is forbidden.
+     
+xhtml:
+      xhtml is markup language where all documents must be marked up correctly.
+      xhtml was devloped make html more extensible and flexible to work with other data formate.
+      in addition,browsers ignore errors in html pages,and try to display the websites even if it
+      has some errors in the markup.
+      so xhtml comes with a much stricer error handling.
+         
+

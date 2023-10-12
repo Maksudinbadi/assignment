@@ -1,0 +1,6 @@
+how to insert a picture backgroud image of a weboage? with a example
+ans:
+    we can use the background attribute in the body tag to set an image as the background of the webpage.
+
+    we will need to specify the url or the location of the image which we want to set to the background attribute of the body tag.
+    

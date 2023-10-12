@@ -1,0 +1,7 @@
+
+Are the HTML tags and element the same thing ?
+ANS: HTML tags are building blocks of HTML pages.
+     HTML element are components that are used in html page
+     HTML tags usually exits in pairs consisting of a starting and an ending tag.
+     however,some tags do not have closing tag.
+     

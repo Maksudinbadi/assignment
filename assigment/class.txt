@@ -1,0 +1,44 @@
+
+<!--
+    what is the 'class' atrribute in html ? with example.
+ANS:
+    the class attributes specify one or more class name for an elements.
+    the class atrribute is mostly used to point to a class in a style sheet.
+    however,it can also be used by a javascript to make change to html elements with a specified class.
+
+example:
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .city
+        {
+            background-color: green;
+            color: white;
+            border: 2px pink solid;
+            width: 50%;
+            margin: 20px;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="city">
+        <h2>DELHI</h2>
+        <P> DELHI IS CAPITAL OF INDIA. </P>
+    </div>    
+    <div class="city">
+        <h2>LONDON</h2>
+        <P>LONDON IS CAPITAL OF ENGLAND</P>
+    </div>
+    <div class="city">
+        <h2>TOKYO</h2>
+        <P>TOKYO IS CAPITAL OF JAPAN</P>
+    </div>
+</body>
+</html>

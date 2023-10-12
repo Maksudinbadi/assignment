@@ -1,0 +1,9 @@
+
+Whats are tags and attributtes in html ?
+ANS:
+    HTML tag:
+             html are used to hold the html elements.
+             html element holds the contents
+
+    HTML attributtes:
+                     html attributtes are used to describe the charcterristic of an html element in details.         

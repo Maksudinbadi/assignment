@@ -1,0 +1,25 @@
+<!--
+what is the use of an iframe tag? with example
+ans:
+    an inline frame(iframe) is a html element that loads another html page within the document.
+
+    it essentially puts another webpage within the parent page.
+
+    they are commonly used for advertisements,embedded videos, web analytics and interactive content.
+Example:
+-->   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe src="D:\assigment\abouts.html" width="48%" height="400px" frameborder="0"></iframe>
+    <iframe src="D:\assigment\home.html" width="48%" height="400px" frameborder="0"></iframe>
+</body>
+</html>
+
+    
+    
